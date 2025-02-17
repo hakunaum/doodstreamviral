@@ -1,4 +1,3 @@
 User-agent: *
 Disallow:
 Allow: /
-sitemap: https://doodstreamviral.pages.dev/sitemap.xml
